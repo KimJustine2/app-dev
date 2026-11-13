@@ -18,4 +18,4 @@ My first repository
 
 ### My Favorite Quote
 
-> If you win, you live. If you lose, you die.
+> Keep moving forward. Even if you die, even after you die.
